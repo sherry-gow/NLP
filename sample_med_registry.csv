@@ -1,0 +1,4 @@
+record_id,pat_name,pat_dob,prov_name,prov_phone,prov_fax,practice,begin_dos,end_dos
+M1,Monica Latte,4/4/1950,Carl Savem,(888)223-1234,(888)-823-1234,WeServeEveryone Clinic,1/1/2010,12/31/2011
+M2,Monica Latte,4/4/1950,Peter Zhou,(888)-555-4466,(888)-888-0000,WeServeEveryone Clinic,1/1/2010,12/31/2011
+M3,James Smith,2/2/2000,Carl Savem,(888)223-1234,(888)-823-1234,WeServeEveryone Clinic,1/1/2010,12/31/2011
